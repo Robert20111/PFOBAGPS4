@@ -1,0 +1,62 @@
+    header {
+        background-color: antiquewhite;
+        border-radius: 15px;
+    }
+
+    .img {
+        height: 120px;
+        width: 120px;
+        border-radius: 100px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+
+    .h2 {
+        text-align: center;
+    }
+
+    body {
+        background-color: rgb(255, 199, 126);
+    }
+
+    .ha {
+        color: black;
+        display: flex;
+        justify-content: center;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 25px;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: white;
+        background-color: black;
+    }
+
+    .img2 {
+        text-decoration: none;
+        height: 70px;
+        width: 70px;
+        margin-left: 100px;
+    }
+
+    footer {
+        background-color:rgb(255, 199, 126) ;
+    }
+
+    .ja {
+        font-size: 30px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: center;
+    }
+
+    .om {
+        height: 230px;
+        width: 370px;
+        border: 5px double black;
+        border-radius: 15px;
+    }
+
+    .ip {
+        text-align: center;
+    }
